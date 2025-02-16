@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{72582D63-EE0A-447A-B97B-0EBFD3D05EDB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Maple", "Maple\Maple.vcxproj", "{381B83B0-E94F-4914-A7B6-CD076F3C321D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{381B83B0-E94F-4914-A7B6-CD076F3C321D}.Debug|x64.ActiveCfg = Debug|x64
+		{381B83B0-E94F-4914-A7B6-CD076F3C321D}.Debug|x64.Build.0 = Debug|x64
+		{381B83B0-E94F-4914-A7B6-CD076F3C321D}.Release|x64.ActiveCfg = Release|x64
+		{381B83B0-E94F-4914-A7B6-CD076F3C321D}.Release|x64.Build.0 = Release|x64
+		{72582D63-EE0A-447A-B97B-0EBFD3D05EDB}.Debug|x64.ActiveCfg = Debug|x64
+		{72582D63-EE0A-447A-B97B-0EBFD3D05EDB}.Debug|x64.Build.0 = Debug|x64
+		{72582D63-EE0A-447A-B97B-0EBFD3D05EDB}.Release|x64.ActiveCfg = Release|x64
+		{72582D63-EE0A-447A-B97B-0EBFD3D05EDB}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
